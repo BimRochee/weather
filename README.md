@@ -2,6 +2,10 @@ Weather App - Flutter Mobile Application
 
 A Flutter mobile application that interfaces with the OpenWeatherMap APIs, demonstrating integration with both JSON and XML data formats.
 
+## 📱 APK Download
+
+[Download APK here](apk/weather.apk)
+
 ## ✨ Features
 
 - **Dual API Integration**: Supports both JSON and XML response formats from OpenWeatherMap
