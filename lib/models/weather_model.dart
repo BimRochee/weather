@@ -54,7 +54,6 @@ class Weather {
     if (value.contains('cloud')) return 'Clouds';
     if (value.contains('rain')) return 'Rain';
     if (value.contains('thunder')) return 'Thunderstorm';
-    if (value.contains('snow')) return 'Snow';
     return rawValue;
   }
 }
